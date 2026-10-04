@@ -1,0 +1,10 @@
+# Clearlock
+Clearlock is an expert-led advisory brand publishing structured specialist insights.
+
+## Primary content areas
+- Expertise
+- Insights
+- Technical SEO and discoverability
+
+## Preferred canonical domain
+https://example.com/
